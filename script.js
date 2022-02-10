@@ -1,0 +1,1 @@
+document.body.innerHTML=<h1>2222</h1>'
